@@ -65,7 +65,7 @@ I am a DevOps and Cloud Engineer focused on building scalable and automated infr
 
 ## 🚀 Featured Projects
 
-### ☁️ Azure Enterprise Terraform Lab
+### ☁️ [Azure Enterprise Terraform Lab](../azure-enterprise-terraform-lab)
 
 **Azure • Terraform • Infrastructure as Code**
 
@@ -78,7 +78,7 @@ Enterprise-style Azure infrastructure provisioning using Terraform.
 
 ---
 
-### ☸️ AXION AKS Deployment
+### ☸️ [AXION AKS Deployment](../AXION-Deployment03Oct)
 
 **AKS • Kubernetes • Docker • Ingress**
 
@@ -92,7 +92,7 @@ Containerized application deployment on Azure Kubernetes Service.
 
 ---
 
-### 🚀 Azure DevOps Pipeline Automation
+### 🚀 [Azure DevOps Pipeline Automation](../ADO-Pipeline-setup-by-CLI-)
 
 **Azure DevOps • YAML • CI/CD**
 
@@ -106,7 +106,7 @@ Reusable CI/CD pipelines using Azure DevOps YAML templates and parameters.
 
 ---
 
-### 🔧 Ansible Infrastructure Automation
+### 🔧 [Ansible Infrastructure Automation](../Ansible)
 
 **Ansible • Linux • SSH**
 
