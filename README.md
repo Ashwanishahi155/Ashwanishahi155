@@ -1,28 +1,35 @@
 <div align="center">
 
-#          Ashwani Shahi
+# 👋     Ashwani Shahi
 
 ### 🚀 Senior Azure DevOps Engineer
 
 **Azure** • **Terraform** • **Kubernetes** • **AKS** • **Docker** • **CI/CD** • **Ansible**
 
+🚀 Building & Automating Azure Cloud Platforms
+
+📍 India &nbsp; | &nbsp; 💼 Senior Azure DevOps Engineer &nbsp; | &nbsp; ☁️ Azure Cloud
+
+🟢 Open to DevOps & Cloud Opportunities
+
 </div>
 
 ---
 
-## 🟦 ☁️ About Me
+## ☁️ About Me
 
-I am a DevOps and Cloud Engineer focused on building scalable and automated infrastructure on Microsoft Azure.
+I am a DevOps and Cloud Engineer focused on designing, automating and managing scalable cloud infrastructure on Microsoft Azure.
 
-🔹 Infrastructure as Code with Terraform  
-🔹 Azure DevOps and CI/CD automation  
-🔹 Kubernetes and Azure Kubernetes Service  
-🔹 Docker and containerization  
-🔹 Ansible automation  
-🔹 Azure Networking  
-🔹 Monitoring and Observability  
+- 🔹 Infrastructure as Code with Terraform
+- 🔹 Azure DevOps and CI/CD automation
+- 🔹 Kubernetes and Azure Kubernetes Service
+- 🔹 Docker and containerization
+- 🔹 Ansible automation
+- 🔹 Azure Networking
+- 🔹 Monitoring and Observability
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### ☁️ Cloud
@@ -31,7 +38,7 @@ I am a DevOps and Cloud Engineer focused on building scalable and automated infr
 ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure Networking](https://img.shields.io/badge/Azure_Networking-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 🚀 DevOps and CI/CD
+### 🚀 DevOps & CI/CD
 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -42,7 +49,7 @@ I am a DevOps and Cloud Engineer focused on building scalable and automated infr
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![Azure Policy](https://img.shields.io/badge/Azure_Policy-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### ☸️ Kubernetes and Containers
+### ☸️ Kubernetes & Containers
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AKS](https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -54,18 +61,18 @@ I am a DevOps and Cloud Engineer focused on building scalable and automated infr
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-### 📊 Monitoring and Observability
+### 📊 Monitoring & Observability
 
 ![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Log Analytics](https://img.shields.io/badge/Log_Analytics-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
----
+
 ---
 
 ## 🚀 Featured Projects
 
-### ☁️ [Azure Enterprise Terraform Lab](../azure-enterprise-terraform-lab)
+### ☁️ Azure Enterprise Terraform Lab
 
 **Azure • Terraform • Infrastructure as Code**
 
@@ -76,9 +83,7 @@ Enterprise-style Azure infrastructure provisioning using Terraform.
 - 🔹 Infrastructure automation
 - 🔹 Azure Policy and governance
 
----
-
-### ☸️ [AXION AKS Deployment](../AXION-Deployment03Oct)
+### ☸️ AXION AKS Deployment
 
 **AKS • Kubernetes • Docker • Ingress**
 
@@ -89,10 +94,9 @@ Containerized application deployment on Azure Kubernetes Service.
 - 🔹 Docker
 - 🔹 Ingress
 - 🔹 HPA
+- 🔹 PostgreSQL
 
----
-
-### 🚀 [Azure DevOps Pipeline Automation](../ADO-Pipeline-setup-by-CLI-)
+### 🚀 Azure DevOps Pipeline Automation
 
 **Azure DevOps • YAML • CI/CD**
 
@@ -104,9 +108,7 @@ Reusable CI/CD pipelines using Azure DevOps YAML templates and parameters.
 - 🔹 Environment-based deployments
 - 🔹 CI/CD automation
 
----
-
-### 🔧 [Ansible Infrastructure Automation](../Ansible)
+### 🔧 Ansible Infrastructure Automation
 
 **Ansible • Linux • SSH**
 
@@ -117,16 +119,13 @@ Infrastructure automation and configuration management using Ansible.
 - 🔹 Configuration management
 - 🔹 Linux administration
 
----
-
-### 📊 Monitoring and Observability
+### 📊 Monitoring & Observability
 
 **Azure Monitor • Log Analytics • Prometheus • Grafana**
 
 Monitoring and observability for cloud and Kubernetes workloads.
 
 ---
-
 
 ## 🎯 Career Focus
 
@@ -136,21 +135,13 @@ Monitoring and observability for cloud and Kubernetes workloads.
 🟢 Infrastructure as Code  
 🟢 Azure Cloud Engineering  
 🟢 Monitoring & Observability  
-🟢 DevOps Automation  
+🟢 DevOps Automation
 
 ---
+
 ## 📊 GitHub Activity
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ashwanishahi155&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</div>
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwanishahi155&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+⭐ Building practical Azure DevOps and Cloud Engineering projects.
 
 ---
 
