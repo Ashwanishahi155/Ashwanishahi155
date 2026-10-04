@@ -24,28 +24,28 @@ I am a DevOps and Cloud Engineer focused on building scalable and automated infr
 
 ---
 
-## 🟪 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### ☁️ Cloud
-`Microsoft Azure` `VNet` `Application Gateway` `Private Endpoint` `Azure Monitor`
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure_Monitor-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### 🚀 DevOps
-`Azure DevOps` `Azure Pipelines` `GitHub Actions` `Git` `GitHub`
+### 🚀 DevOps & CI/CD
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### 🏗️ Infrastructure as Code
-`Terraform` `Terraform Modules` `Remote State` `Azure Policy`
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 
-### ☸️ Containers
-`Docker` `Kubernetes` `AKS` `Ingress` `HPA` `AGIC`
+### ☸️ Kubernetes
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AKS](https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### 🐳 Containers
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🔧 Automation
-`Ansible` `Bash` `PowerShell` `Linux`
-
-### 📊 Monitoring
-`Azure Monitor` `Log Analytics` `Prometheus` `Grafana`
-
----
-
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 ## 🚀 Featured Projects
 
 | 🔥 Project | 🛠️ Technologies |
