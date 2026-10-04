@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ashwani Kumar
+# 👋  I'm Ashwani Kumar
 
 ## 🚀 Senior Azure DevOps Engineer
 
