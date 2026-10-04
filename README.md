@@ -1,5 +1,10 @@
 <div align="center">
 
+<img src="./assets/DevOps%20Cloud%20Engineer%20Banner.png" alt="Ashwani Kumar - Senior Azure DevOps Engineer">
+
+</div>
+<div align="center">
+
 # 👋     Ashwani Shahi
 
 ### 🚀 Senior Azure DevOps Engineer
