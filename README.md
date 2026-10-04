@@ -1,96 +1,91 @@
-# 👋  I'm Ashwani Kumar
+<div align="center">
 
-## 🚀 Senior Azure DevOps Engineer
+# 👋 Hi, I'm Ashwani Kumar
 
-Azure | Terraform | Kubernetes | AKS | Docker | CI/CD | Ansible
+### 🚀 Senior Azure DevOps Engineer
+
+**Azure** • **Terraform** • **Kubernetes** • **AKS** • **Docker** • **CI/CD** • **Ansible**
+
+</div>
+
+---
+
+## 🟦 ☁️ About Me
 
 I am a DevOps and Cloud Engineer focused on building scalable and automated infrastructure on Microsoft Azure.
 
----
-
-## ☁️ About Me
-
-I specialize in cloud infrastructure, Infrastructure as Code, CI/CD automation, Kubernetes and Azure DevOps.
-
-My primary areas of work include:
-
-- Microsoft Azure
-- Terraform Infrastructure as Code
-- Kubernetes and AKS
-- Azure DevOps and CI/CD
-- Docker and containerization
-- Ansible automation
-- Azure Networking
-- Monitoring and Observability
+🔹 Infrastructure as Code with Terraform  
+🔹 Azure DevOps and CI/CD automation  
+🔹 Kubernetes and Azure Kubernetes Service  
+🔹 Docker and containerization  
+🔹 Ansible automation  
+🔹 Azure Networking  
+🔹 Monitoring and Observability  
 
 ---
 
-## 🛠️ Technical Skills
+## 🟪 🛠️ Tech Stack
 
-| Area | Technologies |
-|---|---|
-| Cloud | Microsoft Azure, VNet, Application Gateway, Azure Monitor |
-| DevOps | Azure DevOps, Azure Pipelines, GitHub Actions |
-| IaC | Terraform, Terraform Modules, Remote State |
-| Containers | Docker, Kubernetes, AKS |
-| Automation | Ansible, Bash, PowerShell |
-| Monitoring | Azure Monitor, Log Analytics |
-| Security | Azure Policy, Cloud Security |
+### ☁️ Cloud
+`Microsoft Azure` `VNet` `Application Gateway` `Private Endpoint` `Azure Monitor`
+
+### 🚀 DevOps
+`Azure DevOps` `Azure Pipelines` `GitHub Actions` `Git` `GitHub`
+
+### 🏗️ Infrastructure as Code
+`Terraform` `Terraform Modules` `Remote State` `Azure Policy`
+
+### ☸️ Containers
+`Docker` `Kubernetes` `AKS` `Ingress` `HPA` `AGIC`
+
+### 🔧 Automation
+`Ansible` `Bash` `PowerShell` `Linux`
+
+### 📊 Monitoring
+`Azure Monitor` `Log Analytics` `Prometheus` `Grafana`
 
 ---
 
 ## 🚀 Featured Projects
 
-### ☁️ Azure Enterprise Terraform Lab
-
-Azure infrastructure provisioning using Terraform and Infrastructure as Code.
-
-**Technologies:** Azure, Terraform, VNet, Modules
-
-### ☸️ AKS Deployment Platform
-
-Containerized applications deployed on Azure Kubernetes Service.
-
-**Technologies:** AKS, Kubernetes, Docker, Ingress, HPA
-
-### 🚀 Azure DevOps Pipeline Automation
-
-CI/CD pipelines using Azure DevOps YAML, templates and parameters.
-
-**Technologies:** Azure DevOps, YAML, CI/CD
-
-### 🔧 Ansible Automation
-
-Infrastructure automation and configuration management using Ansible.
-
-**Technologies:** Ansible, Linux, SSH
-
-### ⚡ AXION Cloud Deployment
-
-End to end application deployment using Azure, Kubernetes and CI/CD.
-
-**Technologies:** Azure, AKS, Kubernetes, Docker
+| 🔥 Project | 🛠️ Technologies |
+|---|---|
+| ☁️ **Azure Enterprise Terraform Lab** | Azure • Terraform • IaC |
+| ☸️ **AKS Deployment Platform** | AKS • Kubernetes • Docker |
+| 🚀 **Azure DevOps Pipeline Automation** | Azure DevOps • YAML • CI/CD |
+| 🔧 **Ansible Automation** | Ansible • Linux • SSH |
+| ⚡ **AXION Cloud Deployment** | Azure • AKS • Kubernetes |
 
 ---
 
 ## 🎯 Career Focus
 
-- Cloud Infrastructure Automation
-- CI/CD Pipeline Engineering
-- Kubernetes and Container Platforms
-- Infrastructure as Code
-- Azure Cloud Engineering
-- Monitoring and Observability
-- DevOps Automation
+🟢 Cloud Infrastructure Automation  
+🟢 CI/CD Pipeline Engineering  
+🟢 Kubernetes & Container Platforms  
+🟢 Infrastructure as Code  
+🟢 Azure Cloud Engineering  
+🟢 Monitoring & Observability  
+🟢 DevOps Automation  
+
+---
+
+## 📊 GitHub Activity
+
+⭐ Building practical Azure DevOps and Cloud Engineering projects.
 
 ---
 
 ## 📫 Let's Connect
 
-📧 Email: shahi.ashwani071@gmail.com
+📧 **Email:** shahi.ashwani071@gmail.com
 
-🌐 Website: https://ashwaniai.site/
+🌐 **Website:** https://ashwaniai.site/
 
 ---
 
-⭐ Building practical Azure DevOps and Cloud Engineering projects
+<div align="center">
+
+### 🚀 Build • Automate • Deploy • Scale
+
+</div>
