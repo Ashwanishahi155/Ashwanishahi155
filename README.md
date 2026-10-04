@@ -11,17 +11,15 @@
 
 <div align="center">
 
+<img src="./assets/Azure DevOps Cloud Architect Banner.png" width="100%"/>
+
 # 👋 Hi, I'm Ashwani Shahi
 
-### 🚀 Senior Azure DevOps Engineer
+### 🚀 Senior Azure DevOps Engineer | Cloud Automation | AI-Assisted DevOps
 
-**Azure • Terraform • Kubernetes • AKS • Docker • CI/CD • Ansible**
+**Azure** • **Terraform** • **Kubernetes** • **AKS** • **Docker** • **Azure DevOps** • **CI/CD** • **Ansible** • **AIOps**
 
-🚀 Building & Automating Azure Cloud Platforms
-
-📍 India &nbsp; | &nbsp; 💼 Senior Azure DevOps Engineer &nbsp; | &nbsp; ☁️ Azure Cloud
-
-🟢 Open to DevOps & Cloud Opportunities
+**☁️ Design → 🏗️ Provision → 🚀 Build → 📦 Deploy → 📊 Observe → 🤖 Automate**
 
 </div>
 
