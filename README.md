@@ -61,6 +61,72 @@ I am a DevOps and Cloud Engineer focused on building scalable and automated infr
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ---
+---
+
+## 🚀 Featured Projects
+
+### ☁️ Azure Enterprise Terraform Lab
+
+**Azure • Terraform • Infrastructure as Code**
+
+Enterprise-style Azure infrastructure provisioning using Terraform.
+
+- 🔹 Azure networking
+- 🔹 Terraform modules
+- 🔹 Infrastructure automation
+- 🔹 Azure Policy and governance
+
+---
+
+### ☸️ AXION AKS Deployment
+
+**AKS • Kubernetes • Docker • Ingress**
+
+Containerized application deployment on Azure Kubernetes Service.
+
+- 🔹 AKS
+- 🔹 Kubernetes
+- 🔹 Docker
+- 🔹 Ingress
+- 🔹 HPA
+
+---
+
+### 🚀 Azure DevOps Pipeline Automation
+
+**Azure DevOps • YAML • CI/CD**
+
+Reusable CI/CD pipelines using Azure DevOps YAML templates and parameters.
+
+- 🔹 YAML pipelines
+- 🔹 Templates
+- 🔹 Parameters
+- 🔹 Environment-based deployments
+- 🔹 CI/CD automation
+
+---
+
+### 🔧 Ansible Infrastructure Automation
+
+**Ansible • Linux • SSH**
+
+Infrastructure automation and configuration management using Ansible.
+
+- 🔹 Inventory management
+- 🔹 SSH automation
+- 🔹 Configuration management
+- 🔹 Linux administration
+
+---
+
+### 📊 Monitoring and Observability
+
+**Azure Monitor • Log Analytics • Prometheus • Grafana**
+
+Monitoring and observability for cloud and Kubernetes workloads.
+
+---
+
 
 ## 🎯 Career Focus
 
