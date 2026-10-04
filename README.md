@@ -1,12 +1,3 @@
-
-<div align="center">
-
-<img src="./assets/Azure%20DevOps%20Cloud%20Architect%20Banner.png"
-     alt="Ashwani Shahi - Senior Azure DevOps Engineer"
-     width="100%">
-
-</div>
-
 <br>
 
 <div align="center">
