@@ -1,16 +1,46 @@
 ## Hi there 👋
 
-<!--
-**Ashwanishahi155/Ashwanishahi155** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Ashwani Kumar
 
-Here are some ideas to get you started:
+## 🚀 Senior Azure DevOps Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Azure | Terraform | Kubernetes | AKS | Docker | CI/CD | Ansible
+
+I am a DevOps and Cloud Engineer focused on building scalable
+and automated infrastructure on Microsoft Azure.
+
+### ☁️ Cloud & DevOps
+
+- Microsoft Azure
+- Azure DevOps
+- Azure Pipelines
+- GitHub Actions
+- Terraform
+- Kubernetes
+- Azure Kubernetes Service AKS
+- Docker
+- Ansible
+- Infrastructure as Code
+
+### 🛠️ What I Work With
+
+- Cloud Infrastructure
+- CI/CD Automation
+- Infrastructure as Code
+- Kubernetes Deployments
+- Containerization
+- Azure Networking
+- Monitoring and Observability
+- Configuration Management
+
+### 🚀 Featured Projects
+
+- Azure Enterprise Terraform Lab
+- Azure DevOps Pipeline Automation
+- AKS and Kubernetes Deployment
+- Ansible Automation
+- AXION Cloud Deployment
+
+---
+
+⭐ Building practical Azure DevOps and Cloud Engineering projects
