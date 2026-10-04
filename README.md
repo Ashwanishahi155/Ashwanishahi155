@@ -1,4 +1,12 @@
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/Ashwanishahi155/Ashwanishahi155/main/assets/DevOps%20Cloud%20Engineer%20Banner.png" 
+     alt="Ashwani Shahi - Senior Azure DevOps Engineer" 
+     width="100%">
+
+</div>
+
+<br>
 
 <div align="center">
 
