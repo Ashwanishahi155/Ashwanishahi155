@@ -139,10 +139,18 @@ Monitoring and observability for cloud and Kubernetes workloads.
 🟢 DevOps Automation  
 
 ---
-
 ## 📊 GitHub Activity
 
-⭐ Building practical Azure DevOps and Cloud Engineering projects.
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ashwanishahi155&show_icons=true&theme=tokyonight&hide_border=true" />
+
+</div>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashwanishahi155&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
